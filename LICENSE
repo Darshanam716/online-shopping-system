@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright [2018] [PUNEETH REDDY H C]
+=======
+   Copyright [yyyy] [name of copyright owner]
+>>>>>>> 57632c6250416e5d297476684b7a9b202d2cf5c8
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
