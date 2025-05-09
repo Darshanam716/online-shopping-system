@@ -1,0 +1,41 @@
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor config
+.vscode/
+.idea/
+
+# Ignore node dependencies (if applicable)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore cache or temporary files
+*.cache
+*.bak
+*.tmp
+*.swp
+
+# Ignore PHPUnit test results
+.phpunit.result.cache
+coverage/
+
+# Ignore uploads or user-generated content (optional)
+uploads/
+storage/
+
+# Ignore XAMPP backup/temp files
+*.~*
+
+# Ignore database dumps (optional)
+*.sql
+*.sqlite
