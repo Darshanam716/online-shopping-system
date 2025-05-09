@@ -209,7 +209,7 @@ session_start();
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="https://github.com/puneethreddyhc">
+									<a href="https://github.com/Darshanam716">
 										<i class="fa fa-github"></i>
 										<span>Github</span>
 										
